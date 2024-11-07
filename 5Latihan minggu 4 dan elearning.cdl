@@ -1,7 +1,7 @@
 <circuit>
 <CurrentPage>0</CurrentPage>
 <page 0>
-<PageViewport>16.9688,23.2195,313.961,-133.284</PageViewport>
+<PageViewport>-13.5034,6.42298,149.881,-79.6741</PageViewport>
 <gate>
 <ID>2</ID>
 <type>BM_NORX2</type>
@@ -97,18 +97,6 @@
 <gparam>LABEL_TEXT Flip flop</gparam>
 <gparam>TEXT_HEIGHT 2</gparam>
 <gparam>angle 0.0</gparam></gate>
-<gate>
-<ID>25</ID>
-<type>BE_NOR2</type>
-<position>-29,-35</position>
-<gparam>angle 0.0</gparam>
-<lparam>INPUT_BITS 2</lparam></gate>
-<gate>
-<ID>27</ID>
-<type>BI_NANDX2</type>
-<position>-25.5,-41</position>
-<gparam>angle 0.0</gparam>
-<lparam>INPUT_BITS 2</lparam></gate>
 <wire>
 <ID>1</ID>
 <shape>
@@ -209,7 +197,7 @@
 <name>IN_0</name></connection>
 <intersection>41 8</intersection></hsegment></shape></wire></page 0>
 <page 1>
-<PageViewport>32.0616,1.97064,254.806,-115.407</PageViewport>
+<PageViewport>32.0616,59.4415,648.892,-265.604</PageViewport>
 <gate>
 <ID>4</ID>
 <type>BI_NANDX2</type>
@@ -420,7 +408,7 @@
 <name>IN_1</name></connection>
 <intersection>38 6</intersection></hsegment></shape></wire></page 1>
 <page 2>
-<PageViewport>55.4536,-10.4797,180.747,-76.5047</PageViewport>
+<PageViewport>55.4536,21.8475,402.42,-160.99</PageViewport>
 <gate>
 <ID>11</ID>
 <type>BB_CLOCK</type>
@@ -751,7 +739,7 @@
 <name>CLK</name></connection>
 <intersection>117.5 0</intersection></hsegment></shape></wire></page 2>
 <page 3>
-<PageViewport>58.0712,-9.51228,225.129,-97.5454</PageViewport>
+<PageViewport>58.0712,33.5907,520.693,-210.193</PageViewport>
 <gate>
 <ID>1</ID>
 <type>BA_NAND3</type>
@@ -1219,7 +1207,7 @@
 <name>IN_0</name></connection>
 <intersection>-60 9</intersection></vsegment></shape></wire></page 3>
 <page 4>
-<PageViewport>316.784,-104.777,369.642,-132.631</PageViewport>
+<PageViewport>335.081,-100.766,444.863,-158.617</PageViewport>
 <gate>
 <ID>117</ID>
 <type>BE_JKFF_LOW_NT</type>
@@ -1362,7 +1350,7 @@
 <GID>122</GID>
 <name>N_in0</name></connection></hsegment></shape></wire></page 4>
 <page 5>
-<PageViewport>356.906,-32.6358,409.764,-60.49</PageViewport>
+<PageViewport>356.906,-18.9978,503.282,-96.1322</PageViewport>
 <gate>
 <ID>107</ID>
 <type>BE_JKFF_LOW_NT</type>
@@ -1505,10 +1493,10 @@
 <GID>116</GID>
 <name>N_in0</name></connection></hsegment></shape></wire></page 5>
 <page 6>
-<PageViewport>0,119.035,938.642,-375.592</PageViewport></page 6>
+<PageViewport>0,361.217,1224,-283.783</PageViewport></page 6>
 <page 7>
-<PageViewport>0,119.035,938.642,-375.592</PageViewport></page 7>
+<PageViewport>0,361.217,1224,-283.783</PageViewport></page 7>
 <page 8>
-<PageViewport>0,119.035,938.642,-375.592</PageViewport></page 8>
+<PageViewport>0,361.217,1224,-283.783</PageViewport></page 8>
 <page 9>
-<PageViewport>0,119.035,938.642,-375.592</PageViewport></page 9></circuit>
+<PageViewport>0,361.217,1224,-283.783</PageViewport></page 9></circuit>
