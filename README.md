@@ -1,3 +1,3 @@
-#Cedar Logic Sistem mikroprosesor
+# Cedar Logic Sistem mikroprosesor
 
 **By Mohammad Usman Asegaf**
