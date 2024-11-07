@@ -1,7 +1,7 @@
 <circuit>
 <CurrentPage>0</CurrentPage>
 <page 0>
-<PageViewport>-13.5034,6.42298,149.881,-79.6741</PageViewport>
+<PageViewport>-13.5034,48.5783,438.946,-189.845</PageViewport>
 <gate>
 <ID>2</ID>
 <type>BM_NORX2</type>
@@ -197,7 +197,7 @@
 <name>IN_0</name></connection>
 <intersection>41 8</intersection></hsegment></shape></wire></page 0>
 <page 1>
-<PageViewport>32.0616,59.4415,648.892,-265.604</PageViewport>
+<PageViewport>32.0616,218.592,1256.06,-426.408</PageViewport>
 <gate>
 <ID>4</ID>
 <type>BI_NANDX2</type>
@@ -408,7 +408,7 @@
 <name>IN_1</name></connection>
 <intersection>38 6</intersection></hsegment></shape></wire></page 1>
 <page 2>
-<PageViewport>55.4536,21.8475,402.42,-160.99</PageViewport>
+<PageViewport>66.2822,-8.24042,229.666,-94.3375</PageViewport>
 <gate>
 <ID>11</ID>
 <type>BB_CLOCK</type>
@@ -416,7 +416,7 @@
 <output>
 <ID>CLK</ID>22 </output>
 <gparam>angle 0.0</gparam>
-<lparam>HALF_CYCLE 200</lparam></gate>
+<lparam>HALF_CYCLE 150</lparam></gate>
 <gate>
 <ID>32</ID>
 <type>AA_TOGGLE</type>
@@ -436,7 +436,7 @@
 <ID>45</ID>
 <type>AA_LABEL</type>
 <position>131,-25</position>
-<gparam>LABEL_TEXT Penahan D dengan sinyal pendetak</gparam>
+<gparam>LABEL_TEXT Penahan D dengan sinyal pendetak (D Flip Flop)</gparam>
 <gparam>TEXT_HEIGHT 2</gparam>
 <gparam>angle 0.0</gparam></gate>
 <gate>
@@ -540,7 +540,7 @@
 <gparam>CLICK_BOX -0.76,-0.76,0.76,0.76</gparam>
 <gparam>angle 0.0</gparam>
 <lparam>OUTPUT_BITS 1</lparam>
-<lparam>OUTPUT_NUM 1</lparam></gate>
+<lparam>OUTPUT_NUM 0</lparam></gate>
 <gate>
 <ID>68</ID>
 <type>AA_INVERTER</type>
@@ -739,7 +739,7 @@
 <name>CLK</name></connection>
 <intersection>117.5 0</intersection></hsegment></shape></wire></page 2>
 <page 3>
-<PageViewport>58.0712,33.5907,520.693,-210.193</PageViewport>
+<PageViewport>58.0712,152.953,1282.07,-492.047</PageViewport>
 <gate>
 <ID>1</ID>
 <type>BA_NAND3</type>
@@ -1207,7 +1207,7 @@
 <name>IN_0</name></connection>
 <intersection>-60 9</intersection></vsegment></shape></wire></page 3>
 <page 4>
-<PageViewport>335.081,-100.766,444.863,-158.617</PageViewport>
+<PageViewport>335.081,-72.4409,639.093,-232.643</PageViewport>
 <gate>
 <ID>117</ID>
 <type>BE_JKFF_LOW_NT</type>
@@ -1350,7 +1350,7 @@
 <GID>122</GID>
 <name>N_in0</name></connection></hsegment></shape></wire></page 4>
 <page 5>
-<PageViewport>356.906,-18.9978,503.282,-96.1322</PageViewport>
+<PageViewport>356.906,18.7691,762.255,-194.834</PageViewport>
 <gate>
 <ID>107</ID>
 <type>BE_JKFF_LOW_NT</type>
@@ -1493,10 +1493,10 @@
 <GID>116</GID>
 <name>N_in0</name></connection></hsegment></shape></wire></page 5>
 <page 6>
-<PageViewport>0,361.217,1224,-283.783</PageViewport></page 6>
+<PageViewport>0,677.025,1224,32.0247</PageViewport></page 6>
 <page 7>
-<PageViewport>0,361.217,1224,-283.783</PageViewport></page 7>
+<PageViewport>0,677.025,1224,32.0247</PageViewport></page 7>
 <page 8>
-<PageViewport>0,361.217,1224,-283.783</PageViewport></page 8>
+<PageViewport>0,677.025,1224,32.0247</PageViewport></page 8>
 <page 9>
-<PageViewport>0,361.217,1224,-283.783</PageViewport></page 9></circuit>
+<PageViewport>0,677.025,1224,32.0247</PageViewport></page 9></circuit>
